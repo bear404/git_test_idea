@@ -11,6 +11,8 @@ public class app {
         System.out.println("this is func showmessage");
     }
 
+
+
     public static void fun_show_laptop(){
         System.out.println("add a function in my laptop--modified");
     }
