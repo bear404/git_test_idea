@@ -11,9 +11,6 @@ public class app {
 
         System.out.println("add line in laptop");
 
-
-
-
         System.out.println("add line in pc");
 
     }
